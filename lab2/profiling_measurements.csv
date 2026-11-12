@@ -1,0 +1,5 @@
+Конфигурация,"Время, с",Повторов,"Размер, МБ",Назначение,HTML
+Дефолтная,10.3,1,2.67,Базовый explorative-отчёт,reports/titanic_default.html
+A. Минимальная,2.81,3,1.01,Максимальная скорость,reports/titanic_minimal.html
+B. Кастомная,2.45,3,0.88,Без корреляций и interactions; dark mode; сокращённые samples,reports/titanic_custom_dark.html
+C. Полная,5.23,3,2.77,Максимум информации и несколько методов корреляции,reports/titanic_full.html
